@@ -1,0 +1,119 @@
+
+.body{
+    font-family: 'Poppins', sans-serif;
+} 
+
+#banner{
+    padding: 12%;
+    margin: 0px;
+    min-height: 500px;
+    max-height: 600px;
+    background: rgb(255,203,173);
+    background: linear-gradient(204deg, rgba(255,203,173,1) 0%, rgba(255,187,255,1) 47%, rgba(255,221,133,1) 76%, rgba(243,255,155,1) 100%);
+
+}
+
+#titleCont{
+    text-align: center;
+    color: #fff;
+}
+
+.titleMain{
+    font-size: 60px !important;
+    font-weight: bolder !important;
+}
+
+.textmont{
+    color: lightslategrey;
+    font-weight: bold !important;
+}
+
+#noborder{
+    border: none;
+}
+
+#headerpad{
+    padding: 80px;
+}
+
+#navbar{
+    background-color: lightslategrey;
+    margin-bottom: 20px;
+    padding-left: 32%;
+    padding-right: 32%;
+}
+
+.white{
+    color: white !important;
+}
+
+#team{
+    margin: 8%;
+}
+
+.roundedc {
+    align-self: center;
+    border: none;
+    border-top-left-radius: 50% !important;
+    border-top-right-radius: 50% !important;
+    border-radius: 50%;
+    width: 200px !important;
+    height: 200px;
+}
+
+.cardAboutStyle{
+    text-align: center;
+    border: none !important;
+}
+
+.jumbotronAds{
+    padding: 10 !important;
+    background-color: rgb(201, 201, 201) !important;
+}
+
+.jumbotronVisionAds{
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;    
+    background: rgb(173,255,191);
+background: linear-gradient(204deg, rgba(173,255,191,1) 0%, rgba(187,221,255,1) 51%, rgba(133,238,255,1) 90%);
+}
+
+
+.AdsTitle{
+    color: white;
+    font-size: 30px !important;
+    font-weight: bolder;
+    padding: 20px 20px 10px 20px;
+    text-align: center;
+}
+
+.visionTitle{
+    font-size: 60px;
+    color: white;
+    font-weight: bolder;
+    padding: 20px 20px 10px 20px;
+    text-align: center;
+    
+}
+
+.visionText{
+    font-weight: bold !important;
+    color: lightslategrey;
+    text-align: center !important;
+}
+
+.adtext{
+    color: lightslategrey;
+    text-align: center !important;
+}
+
+#footer{
+    background-color: rgb(201, 201, 201);
+    padding-left: 32%;
+    padding-right: 32%;
+}
+
+#footertext{
+    margin: 0 auto;
+    padding: 15px 15px 0px 15px;
+}
